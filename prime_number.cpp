@@ -10,7 +10,7 @@ int main(){
             break;
         }
         else{
-            cout<<"The number is prime";
+            cout<<"The number is prime"
             break;
         }
     }
